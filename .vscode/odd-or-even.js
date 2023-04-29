@@ -11,3 +11,4 @@ else{
     result="num is odd"
 }
 console.log(result)
+
